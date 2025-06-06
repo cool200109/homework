@@ -1,0 +1,5 @@
+#project1为Logistic Regression算法进行的模型开发
+#project2为SVM算法进行的模型开发
+#project3为Logistic Regression算法与SVM算法进行模型开发的对比
+#projectXGB为集成学习与迁移学习结合（XGBoost算法）进行的模型开发
+#project4为三种算法进行模型开发的对比
